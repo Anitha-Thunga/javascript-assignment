@@ -8,10 +8,10 @@ console.log(`My favorite color is:${favoriteColor}`);// displays favorite color 
 
 let x=120;// create and assign value to variable x
 let y=350;// create and assign value to variable y
-z=x+y;// add x&y and stores in  variable z
-s=x-y;// subtract x&y and stores in variable s
-d=x/y;// divide x&y and stores in variable d
-m=x*y;// multilply x&y and stores in variable m
+let z=x+y;// add x&y and stores in  variable z
+let s=x-y;// subtract x&y and stores in variable s
+let d=x/y;// divide x&y and stores in variable d
+let m=x*y;// multilply x&y and stores in variable m
 console.log(`The addition is:${z}`);// display addition with messsage in console
 console.log(`The subtraction is:${s}`);// display subtarction with messsage in console
 console.log(`The division is:${d}`);// display division with messsage in console
